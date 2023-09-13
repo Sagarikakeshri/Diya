@@ -1,5 +1,5 @@
 # Diya_Shopper
-Worked on the data from Diya Shoppers, a multi-national grocery chain with locations in Canada, Mexico and the United States.
+Worked on Power Bi on the data from Diya Shoppers, a multi-national grocery chain with locations in Canada, Mexico and the United States.
 
 Used the entire business intelligence workflow: 
 
